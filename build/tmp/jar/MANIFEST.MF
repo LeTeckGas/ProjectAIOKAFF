@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: aiokaff
+Specification-Vendor: LeTeckGas, The KAFF Team.
+Specification-Version: 1
+Implementation-Title: ProjectAIOKAFF
+Implementation-Version: 1.0.0
+Implementation-Vendor: LeTeckGas, The KAFF Team.
+Implementation-Timestamp: 2026-01-19T12:20:08+0100
+

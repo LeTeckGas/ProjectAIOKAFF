@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "aiokaff:block/test_block" }
+  }
+}
